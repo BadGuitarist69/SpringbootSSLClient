@@ -1,0 +1,6 @@
+.idea
+
+target/*
+!target/*.jar
+
+src/main/resources/application.properties
